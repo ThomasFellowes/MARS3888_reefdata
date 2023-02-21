@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-[![Binder](https://mybinder.org/v2/gh/ThomasFellowes/ThomasFellowes-MARS3888_reefdata/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThomasFellowes/MARS3888_reefdata/main)
 
 A Binder-compatible repo with an `environment.yml` file.
 
