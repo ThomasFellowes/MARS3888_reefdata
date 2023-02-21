@@ -1,7 +1,6 @@
 name: mars3888
 channels:
   - conda-forge
-  - pyviz
   - defaults
   - anaconda
 dependencies:
@@ -19,8 +18,6 @@ dependencies:
   - shapely       # Geometric library
   - cftime        # Time units decoder
   - cartopy       # Geographic plotting toolkit
-  - myst-nb       # Notebook syntax
-  - sympy         # Symbolic expression
   - cmocean       # Colormaps for oceanography
   - jupyterlab    # Jupyter Lab environment
   - jupyter-book  # Jupyter book environment
