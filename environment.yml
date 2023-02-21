@@ -5,7 +5,7 @@ channels:
   - defaults
   - anaconda
 dependencies:
-  - python=3.11
+  - python=3.8
   - sphinx
   - pip           # Python package
   - pandas        # Labeled array library
