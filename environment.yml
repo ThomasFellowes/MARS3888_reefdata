@@ -1,33 +1,27 @@
 name: mars3888
 channels:
   - conda-forge
-  - defaults
-  - anaconda
 dependencies:
   - python=3.8
-  - sphinx
-  - pip           # Python package
-  - pandas        # Labeled array library
-  - netCDF4       # Wrapper for netcdf4
-  - xarray        # N-d labeled array library
-  - matplotlib    # 2D plotting library
-  - numpy         # N-d array and numerics
-  - scipy         # Common math/stats/science functions
-  - scikit-learn  # Machine learning library
-  - geopandas     # Labeled array library for geosciences
-  - shapely       # Geometric library
-  - cftime        # Time units decoder
-  - cartopy       # Geographic plotting toolkit
-  - cmocean       # Colormaps for oceanography
-  - jupyterlab    # Jupyter Lab environment
-  - jupyter-book  # Jupyter book environment
-  - basemap       # Mapping package
-  - h5py          # Wrapper for HDF5
-  - pymannkendall # Mann-Kendall trend analysis
-  - seaborn       # Statistical visualizations
-  - statsmodels   # Regression/modeling toolkit
-  - Pillow        # Python Imaging Library
-  - requests
-  - wget
+  - jupyterlab=2.1
+  - numpy
+  - pip
+  - pandas
+  - scipy
+  - netCDF4
+  - compilers
+  - gfortran
+  - python-graphviz
+  - seaborn
+  - scikit-image
+  - scikit-learn=0.23
+  - h5py
+  - xarray
+  - cmocean
+  - shapely
+  - cartopy
+  - dask
+  - zarr
+  - pymt
   - pip:
-    - pyproj      # Geographic projections
+      - pymannkendall==1.2 
