@@ -2,7 +2,7 @@
 
 # Tutortials - Finding and Finding and Using Online Datasets
 
-First let's have alook at eReefs:
+## First let's have alook at eReefs:
 
 + https://ereefs.org.au/ereefs
 
@@ -11,7 +11,7 @@ The eReefs research project is a collaboration between the Great Barrier Reef Fo
 The project has developed a platform that provides a picture of what is currently happening on the reef, and what will likely happen in the future. eReefs combines modelling systems spanning the catchments, estuaries, reef lagoon and the open ocean portions of the Great Barrier Reef. 
 The results of the models provide information on physical processes, sediment transport, biogeochemistry and ocean colour, and the delivery of those results supports enhanced monitoring, operational modelling, the development of new data standards and information system architectures, and cutting-edge reporting and data visualisation. 
 
-The two main models include:
+## The two main models include:
 
 + eReefs Hydrodynamic Model (1 km - September 2010 onwards; 4 km December 2014 onwards)
 + eReefs BioGeoChemical Model (4 km resolution)
@@ -21,7 +21,7 @@ The two main models include:
 Model grid and bathymetry for the 4km (left) and 1km (right) resolution model.
 *This material is from the eReefs.org.au website and the eReefs Research from CSIRO*
 
-How to access eReefs data:
+## How to access eReefs data:
 
 There are three ways to access eReefs data, each of which is intended for different types of users:
 1.	Visualisation Portal 
@@ -32,7 +32,7 @@ For now, we will use the Visualisation Portal as it is the simplest method for m
 
 + [https://portal.ereefs.info/](https://portal.ereefs.info/map)
 
-Visualisation Portal Method:
+## Visualisation Portal Method:
 
 1.	Once you have read the information on previous page you can access the portal here and start exploring! 
 2.	Start by adding a data layer to the map. Let’s click the “Browse Data” button at the top and select “eReefs Region Model Results” then “eReefs GBR1 hydrodynamic v2.0” and then find ‘Temperature (temp)’ and click “Show More”. This will give you information on the dataset at well as available web services to download the data directly. This will be important later. Now click “Add to Map”.
@@ -49,14 +49,15 @@ Why might it be good to look at temperature for multiple locations? Are there hi
 
 What are the most important or more influential stressors to coral reefs?
 
-Direct Method:
+## Direct Method:
 
 We will be accessing the data using Binder in a Jupyter Notebook and NetCDF files. 
 
-Access this Binder by clicking the blue badge above or at the following URL:
+# Access this Binder by clicking the blue badge above or at the following URL:
 
 ![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThomasFellowes/MARS3888_reefdata/main) 
 
 https://mybinder.org/v2/gh/ThomasFellowes/ThomasFellowes-MARS3888_reefdata/mainClick on the icon [to open your virtual phython.
 
 Work through the 4 Notebooks.
+![image](https://user-images.githubusercontent.com/29109874/220500576-4a80dc5a-55bd-4a8e-99ef-400de4a6e640.png)
