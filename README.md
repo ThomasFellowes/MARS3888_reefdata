@@ -1,8 +1,6 @@
-# Welcome to MARS3888 
+# MARS3888 Tutortials - Finding and Finding and Using Online Datasets
 
-# Tutortials - Finding and Finding and Using Online Datasets
-
-## First let's have a look at eReefs:
+## eReefs:
 
 + https://ereefs.org.au/ereefs
 
@@ -16,7 +14,8 @@ The results of the models provide information on physical processes, sediment tr
 + eReefs Hydrodynamic Model (1 km - September 2010 onwards; 4 km December 2014 onwards)
 + eReefs BioGeoChemical Model (4 km resolution)
 
-![image](https://user-images.githubusercontent.com/29109874/220499794-5bfd0029-26ca-4efa-b96f-5b0a8e554661.png)
+
+![image](https://user-images.githubusercontent.com/29109874/220501128-8c1dc193-9c5b-4f51-b94c-881533b9bbfd.png)
 
 Model grid and bathymetry for the 4km (left) and 1km (right) resolution model.
 *This material is from the eReefs.org.au website and the eReefs Research from CSIRO*
@@ -49,14 +48,14 @@ Why might it be good to look at temperature for multiple locations? Are there hi
 
 What are the most important or more influential stressors to coral reefs?
 
-## Direct Method using python jupyter Notebooks
+# Direct Method using Binder and python jupyter Notebooks
 
-# Access this Binder (virtual code environment) by clicking the blue badge above or at the following URL:
+Access this Binder (virtual code environment) by clicking the blue badge above or at the following URL:
 
-![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThomasFellowes/MARS3888_reefdata/main) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThomasFellowes/MARS3888_reefdata/main)
 
-+ It may taka a while to load Binder
+  NB: It may taka a while to load Binder
 
 https://mybinder.org/v2/gh/ThomasFellowes/ThomasFellowes-MARS3888_reefdata/mainClick on the icon [to open your virtual phython.
 
-# Now Work through the 4 Notebooks - You have 2 weeks to get through these.
+## Now work through the 4 Notebooks - You have 2 weeks to get through these.
