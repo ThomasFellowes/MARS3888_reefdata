@@ -49,15 +49,14 @@ Why might it be good to look at temperature for multiple locations? Are there hi
 
 What are the most important or more influential stressors to coral reefs?
 
-## Direct Method:
+## Direct Method using python jupyter Notebooks
 
-We will be accessing the data using Binder in a Jupyter Notebook and NetCDF files. 
-
-# Access this Binder by clicking the blue badge above or at the following URL:
+# Access this Binder (virtual code environment) by clicking the blue badge above or at the following URL:
 
 ![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThomasFellowes/MARS3888_reefdata/main) 
 
++ It may taka a while to load Binder
+
 https://mybinder.org/v2/gh/ThomasFellowes/ThomasFellowes-MARS3888_reefdata/mainClick on the icon [to open your virtual phython.
 
-Work through the 4 Notebooks.
-![image](https://user-images.githubusercontent.com/29109874/220500576-4a80dc5a-55bd-4a8e-99ef-400de4a6e640.png)
+# Now Work through the 4 Notebooks - You have 2 weeks to get through these.
