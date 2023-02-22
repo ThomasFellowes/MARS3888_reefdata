@@ -1,4 +1,4 @@
-# MARS3888 Tutortials - Finding and Finding and Using Online Datasets
+# MARS3888 Tutorials - Finding and Using Online Datasets
 
 ## eReefs:
 
