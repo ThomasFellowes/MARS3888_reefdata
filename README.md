@@ -2,7 +2,7 @@
 
 # Tutortials - Finding and Finding and Using Online Datasets
 
-## First let's have alook at eReefs:
+## First let's have a look at eReefs:
 
 + https://ereefs.org.au/ereefs
 
