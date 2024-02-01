@@ -58,4 +58,4 @@ Access this Binder (virtual code environment) by clicking the blue badge above o
 
 https://mybinder.org/v2/gh/ThomasFellowes/ThomasFellowes-MARS3888_reefdata/mainClick on the icon [to open your virtual phython.
 
-## Now work through the 4 Notebooks - You have 2 weeks to get through these.
+## Now work through the 4 Notebooks
